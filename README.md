@@ -1,1 +1,0 @@
-# careops-api
