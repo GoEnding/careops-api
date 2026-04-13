@@ -1,0 +1,6 @@
+export enum ProfessionalVerificationTrack {
+    MOHW_LICENSE = 'MOHW_LICENSE',
+    WORK_EMAIL = 'WORK_EMAIL',
+    PRIVATE_CERTIFICATE = 'PRIVATE_CERTIFICATE',
+    MANUAL_REVIEW = 'MANUAL_REVIEW',
+  }
